@@ -1,0 +1,64 @@
+.sticky {
+  position: fixed;
+  top: 0;
+}
+
+.bg-color {
+  background-color: #261762;
+}
+
+.logo-area a {
+  display: flex;
+  text-decoration: none;
+  align-items: flex-end;
+}
+
+.logo-text {
+  color: #fff;
+  font-weight: 800;
+  font-size: 1.5rem;
+}
+
+.logo-text span {
+  color: aqua;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.dropdown-menu ul {
+  list-style: none;
+  padding: unset;
+  margin: unset;
+}
+
+.dropdown-menu li:hover {
+  width: 100%;
+  background: #261762;
+  cursor: pointer;
+  color: #fff;
+}
+.dropdown-link li {
+  color: #261762;
+}
+
+.dropdown-items {
+  display: block;
+  padding: 14px;
+  clear: both;
+  font-weight: 400;
+  width: 100%;
+  color: #261762;
+  text-align: inherit;
+  text-decoration: none;
+  white-space: nowrap;
+  background-color: transparent;
+  border: 0;
+  transition: all linear 0.3s;
+}
+
+.dropdown-items:hover,
+.dropdown-items:focus {
+  color: #fff;
+}
