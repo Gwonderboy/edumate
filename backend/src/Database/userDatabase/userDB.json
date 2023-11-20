@@ -1,0 +1,24 @@
+[
+  {
+    "id": "e546785e-0878-4d66-a4db-774a82503434",
+    "firstName": "VICTOR",
+    "lastName": "EBUBECHUKWU",
+    "email": "Vebubechukwu@gmail.com",
+    "password": "$2a$10$nAW7H4v4ErFFqKo0zcmIAefqGnTcet2Qiik1gI3rXXhHLeWILaYM.",
+    "level": "300",
+    "role": "student",
+    "createdAt": "2023-11-16T10:18:12.984Z",
+    "updatedAt": "2023-11-16T10:18:12.984Z"
+  },
+  {
+    "id": "81f80369-5207-40cf-8d19-52a432e3e987",
+    "firstName": "Red",
+    "lastName": "Mi",
+    "email": "redmi@gmail.com",
+    "password": "$2a$10$nSbxdoJm7uBu5t4ZtS4foeCzc9NlL4HX0j5vd4rLuH8pCqrEFSxl2",
+    "level": "100",
+    "role": "teacher",
+    "createdAt": "2023-11-19T19:34:35.982Z",
+    "updatedAt": "2023-11-19T19:34:35.982Z"
+  }
+]

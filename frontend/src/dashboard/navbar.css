@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+.logo{
+    height: 60px;
+    width: 60px;
+    /* background-color: white; */
+}
+.navbar{
+    justify-content: space-around;
+    background-color: #261762;
+    color: white;
+}
+
+.userTab {
+    position: fixed;
+    z-index: 900;
+}
+
+.userTab button {
+    padding: 7px 10px;
+    border: none;
+    color: #261762;
+}
+
+.userTab button:hover {
+    background: aqua;
+    transition: 0.3s ease-in;
+}
